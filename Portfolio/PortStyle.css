@@ -1,0 +1,107 @@
+.Portfolio{
+    width: 1800px;
+}
+
+.main{
+    background-color:beige;
+    width: 1200px;
+    height: 700px;
+    border: #000;
+    margin-left: 350px;
+    color: #fff;
+}
+
+.Portfolio h1{
+    text-align: center;
+}
+.main p{
+    margin-left: 50px;
+}
+.main li{
+    font-size: 20px;
+    margin-left: 30px;
+}
+.main a:link{
+    color: aqua;
+}
+
+#page1 img{
+    margin-left: 400px;
+}
+#page2 img{
+    margin-left: 500px;
+}
+#page3 img{
+    margin-left: 400px;
+}
+
+.Career h3{
+    list-style-type: none;
+    width: 1200px;
+    height: 60px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+    background-color:black;
+    margin-top: 0px;
+    margin-bottom: 150px;
+}
+.Career{
+    width: 1200px;
+    height: 700px;
+}
+.priorities{
+    margin-top: 30px;
+    padding-bottom: 30px;
+    font-size: 20px;
+    color: #000;
+}
+/*
+
+#menu{
+    width:291px;
+    margin:10px;
+    border:1px solid #ffffff;
+    border-bottom:none;
+    float: left;
+}
+.malist{
+    background:#000;
+    color:#fff;
+    font-size:25px;
+    font-weight:bold;
+    padding:13px 10px 13px;
+    margin:-1px 0 0 -1px;
+    cursor:pointer;
+    width:270px;
+    height:35px;
+    border:1px solid #ffffff;
+    text-align: center;
+}
+.slist li{
+    background:#fff;       
+    padding:10px 10px 10px;
+    border:1px solid #000;
+    font-size:20px;
+    font-weight:bold;
+    width:269px;
+    height:35px;
+    margin:0 0 0 0;
+cursor : pointer;
+}
+.slist li a{
+    color:#000;
+    display:block;
+    
+}
+ul#menu, ul.slist{
+    list-style:none;
+    margin:0;
+    padding:0;
+    width: 290px;
+}
+ul#menu{
+float:left;
+margin-left:100px;
+}
+*/
