@@ -1,0 +1,29 @@
+.ChatMain{
+    width: 1800px;
+}
+
+.main{
+    background-color:beige;
+    width: 1700px;
+    margin-left: 100px;
+    color: #fff;
+}
+.main p{
+    color: black;
+    padding-left: 10px;
+}
+.InputZone{
+    background-color: darkgrey;
+    margin-left: 100px;
+    padding-top: 20px;
+    width: 1670px;
+    height: 40px;
+    text-align: center;
+    
+}
+.InputZone button{
+    margin-left: 10px;
+}
+.NowTime{
+    margin-right: 20px;
+}
